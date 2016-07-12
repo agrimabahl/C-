@@ -1,3 +1,5 @@
+//Given s = "leetcode", return "leotcede".
+//Given s = "hello", return "holle".
 class Solution {
 public:
     string reverseVowels(string s) {
